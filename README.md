@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Zazazup but you can call me Zaza;
-- 👀 I’m interested in connecting with people, especially with the ones that knows about security;
-- 🌱 I’m currently learning about cybersecurity, redteam, blueteam, purpleteam, pentest, etc;
-- 💞️ I’m looking to collaborate on sharing open positions at Zup;
+- 👋 Hi, I’m @Zazazup but you can call me Zaza.
+- 👀 I’m interested in connecting with people to learn more about technology and I'm really curious about the gaming world.
+- 🌱 I’m currently learning about cybersecurity, redteam, blueteam, purpleteam, pentest, etc.
+- 💞️ I’m looking to collaborate sharing open positions at Zup Innovation. 
 - 📫 How to reach me on Linkedin: https://www.linkedin.com/in/isabelafontana/
 
 <!---
